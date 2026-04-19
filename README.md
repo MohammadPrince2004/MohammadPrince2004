@@ -55,7 +55,7 @@ I am an **Egyptian Electrical Engineer** who believes in the power of code to so
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Mohammad's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadPrince&show_icons=true&theme=tokyonight" alt="Mohammad's Stats" />
 </p>
 
 ---
