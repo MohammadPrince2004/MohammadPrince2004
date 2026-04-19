@@ -52,13 +52,6 @@ I am an **Egyptian Electrical Engineer Student** who believes in the power of co
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadPrince&show_icons=true&theme=tokyonight" alt="Mohammad's Stats" />
-</p>
-
----
-
 ### 📫 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammad-elprince/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
