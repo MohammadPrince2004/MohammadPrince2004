@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am an **Egyptian Electrical Engineer** who believes in the power of code to solve real-world engineering problems. I spend my time building cross-platform mobile apps with **Flutter**, automating workflows with **Python**, and deep-diving into **Data Structures and Algorithms**.
+I am an **Egyptian Electrical Engineer Student** who believes in the power of code to solve real-world engineering problems. I spend my time building cross-platform mobile apps with **Flutter**, automating workflows with **Python**, and deep-diving into **Data Structures and Algorithms**.
 
 - 🔭 I’m currently working on enhancing my **Flutter** portfolio.
 - 🌱 I’m currently learning more about **Embedded Systems(MC8051)**.
@@ -64,6 +64,8 @@ I am an **Egyptian Electrical Engineer** who believes in the power of code to so
   <a href="https://www.linkedin.com/in/mohammad-elprince/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mostafaprince2008@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/201094068418">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
