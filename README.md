@@ -48,7 +48,6 @@ I am an **Egyptian Electrical Engineer** who believes in the power of code to so
 | **Shop** | My fisrt Desktop Application Using Custom Tkinetr That connects to your mobile to read the Qrcode of your good and give you its price or quantity and calculate your total price for your goods that you buy and dealing with jason files  | ` Python ` , ` Json Files ` | 
 | **Mo_Bank App** | My Second Desktop Application (UI/UX) Using Flet That for any bank to deposit or any function for client  | ` Python ` |
 | **Calculator App** | Mobile Application Using Flet  | ` Python ` |
-| **QrCodeReader App** | Mobile Application | ` Python ` |
 | **Data Structures Lab** | Custom implementation of BST, Queues, and Lists in C++ | ` C++ ` |
 
 ---
