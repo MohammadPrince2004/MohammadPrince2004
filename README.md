@@ -41,8 +41,8 @@ I am an **Egyptian Electrical Engineer Student** who believes in the power of co
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Weather App** | A mobile application that gives you the status of weather for some days  | `Flutter` , `API` , `DIO` |
-| **ToDo App** | A mobile application that  you record your tasks and classify them into educational or personal , ...  | `Flutter` , `Local Storage ` |
+| **Weather App** | A mobile application that gives you the status of weather for some days  | `Flutter` , `API` , `DIO` , ` Animation `|
+| **ToDo App** | A mobile application that  you record your tasks and classify them into educational or personal , ...  | `Flutter` , `Local Storage `, ` Animation ` |
 | **Ui/Ux For Chat App** |  A  Ui/Ux mobile application that is for training using wigdets  | ` Flutter ` , ` Main Widgets ` |
 | **Ui/Ux For Resturant App** | A  Ui/Ux mobile application that is for training using wigdets | ` Flutter ` , ` Main Widgets ` |
 | **Shop** | My fisrt Desktop Application Using Custom Tkinetr That connects to your mobile to read the Qrcode of your good and give you its price or quantity and calculate your total price for your goods that you buy and dealing with jason files  | ` Python ` , ` Json Files ` | 
